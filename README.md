@@ -4,12 +4,17 @@
 
 :mag: Create a list of 10 random numbers. Use LINQ queries to:
 
-Print even numbers
-Print odd numbers
-Print negative numbers
-Print positive numbers
-Print numbers greater than 15 and less than 22
-Print the square of each number
+Print even numbers.
+
+Print odd numbers.
+
+Print negative numbers.
+
+Print positive numbers.
+
+Print numbers greater than 15 and less than 22.
+
+Print the square of each number.
 
 ### :incoming_envelope: Contact Information :incoming_envelope:
 
