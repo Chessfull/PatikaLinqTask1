@@ -3,6 +3,7 @@
 ### Instructions of task below 
 
 :mag: Create a list of 10 random numbers. Use LINQ queries to:
+
 Print even numbers
 Print odd numbers
 Print negative numbers
